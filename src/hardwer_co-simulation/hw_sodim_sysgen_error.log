@@ -1,0 +1,21 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2017.4                 C:/Xilinx/Vivado/2017.4
+Matlab 9.3.0.713579 (R2017b)            C:\Program Files\MATLAB\R2017b
+Vivado 2017.4                           C:/Xilinx/Vivado/2017.4
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Could not find JTAG device xc7a35t.
+     Block: 'hw_sodim/proba1 hwcosim'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'hw_sodim/proba1 hwcosim'
+
+Details:
+Could not find JTAG device xc7a35t.
+Error occurred during "Simulation Initialization".
+
+--------------------------------------------------------------------------------
